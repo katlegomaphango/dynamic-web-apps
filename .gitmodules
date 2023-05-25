@@ -7,3 +7,6 @@
 [submodule "DWA-2"]
 	path = DWA-2
 	url = https://github.com/katlegomaphango/DWA-2.git
+[submodule "DWA-3-1"]
+	path = DWA-3-1
+	url = https://github.com/katlegomaphango/DWA-3-1.git
