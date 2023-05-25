@@ -1,3 +1,6 @@
 [submodule "DWA-1"]
 	path = DWA-1
 	url = https://github.com/katlegomaphango/DWA-1.git
+[submodule "DWA-3-2"]
+	path = DWA-3-2
+	url = https://github.com/katlegomaphango/DWA-3-2.git
